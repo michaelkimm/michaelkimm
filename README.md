@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**More about me:)**
+**About me:)**
 
 ```
 package p2p.introduction.domain;
