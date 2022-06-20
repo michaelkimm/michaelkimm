@@ -7,23 +7,25 @@
 package p2p.introduction.domain;
 
 @Builder
-public class Member {
+class Member {
     String name;
     String job;
-    List<String> developmentFields;
-    List<String> languages;
-    List<String> techSkills;
-    List<String> interests;
+    String[] developmentFields;
+    String[] languages;
+    String[] techSkills;
+    String[] interests;
+}
 
+public class Main() {
     public static void main(String[] args) {
     
         Member minsuk = Member.builder()
                 .name("김민석")
                 .job("Software engineer🧑🏽‍💻")
-                .developmentFields(List.of("Back-end🔭"))
-                .languages(List.of("java☕"))
-                .techSkills(List.of("Spring🌱"))
-                .interests(List.of("루틴", "명상", "운동👯"))
+                .developmentFields({"Back-end🔭"})
+                .languages({"java☕"})
+                .techSkills({"Spring🌱"})
+                .interests({"루틴", "명상", "운동👯"})
                 .build();
 
         introduce(minsuk);
