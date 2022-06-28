@@ -25,7 +25,7 @@ public class Main() {
                 .job("Software engineer🧑🏽‍💻")
                 .developmentFields({"Back-end🔭"})
                 .languages({"java☕"})
-                .techSkills({"Spring🌱, Spring Security🔐, Mysql🐬"})
+                .techSkills({"Spring🌱, Spring Security🔐, Mysql🐬, MyBatis🦤"})
                 .interests({"루틴", "명상", "운동👯"})
                 .build();
 
