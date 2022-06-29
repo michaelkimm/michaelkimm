@@ -37,7 +37,7 @@ public class Main() {
 ## Hard Skill
  1. 더 깊이 있고 근거에 기반한 지식을 쌓기 위해 **기술 선택 시 여러 솔루션의 장단점과 사용자 UX의 Trade off를 고려**했습니다. 
      - [집합의 개념과 이상현상을 고려한 ERD 설계](https://ujkim-game.tistory.com/63)
-     - 브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용 [(1)](https://ujkim-game.tistory.com/66), [(2)](https://ujkim-game.tistory.com/67).
+     - [브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용](https://ujkim-game.tistory.com/67).
      - AOP를 사용하여 반복되는 로직 제거(feat.StandardResponse)
      - 사용자의 UX를 고려한 JWT 로그인 보안 전략 수립 및 구현
      - 제한된 메모리 크기 환경에서의 HashMap 튜닝 방법.
