@@ -40,7 +40,7 @@ public class Main() {
      - [브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용](https://ujkim-game.tistory.com/67).
      - [Filter를 사용하여 반복되는 응답 로직 제거(feat.StandardResponse)](https://ujkim-game.tistory.com/72)
      - [집합의 개념과 이상현상을 고려한 ERD 설계](https://ujkim-game.tistory.com/63)
-     - [제한된 메모리 크기 환경에서의 HashMap 튜닝 방법](https://ujkim-game.tistory.com/75)
+     - [제한된 메모리 크기 환경에서의 LinkedList와 HashMap 튜닝 방법](https://ujkim-game.tistory.com/75)
 
 
  2. 알고리즘 문제 **1일 1커밋 지향**
