@@ -39,7 +39,7 @@ public class Main() {
      - [사용자의 UX를 고려한 JWT 로그인 보안 전략 수립 및 구현](https://ujkim-game.tistory.com/74)
      - [브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용](https://ujkim-game.tistory.com/67).
      - [Filter를 사용하여 반복되는 응답 로직 제거(feat.StandardResponse)](https://ujkim-game.tistory.com/72)
-     - [집합의 개념과 이상현상을 고려한 ERD 설계](https://ujkim-game.tistory.com/63)
+     - [이상현상과 정규화 수준을 고려한 ERD 설계](https://ujkim-game.tistory.com/64)
      - [제한된 메모리 크기 환경에서의 LinkedList와 HashMap 튜닝 방법](https://ujkim-game.tistory.com/75)
 
 
