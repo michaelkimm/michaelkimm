@@ -13,7 +13,9 @@ class Member {
     String job;
     String[] developmentFields;
     String[] languages;
-    String[] techSkills;
+    String[] backendSkills;
+    String[] devOpsSkills
+    String[] collaborationTools
     String[] interests;
 }
 
@@ -25,7 +27,9 @@ public class Main() {
                 .job("Software engineer🧑🏽‍💻")
                 .developmentFields({"Back-end🔭"})
                 .languages({"java☕"})
-                .techSkills({"Spring🌱, Spring Security🔐, Mysql🐬, MyBatis🦤, JUnit5, Mockito🍸"})
+                .backendSkills({Spring🌱, Spring Security🔐, MyBatis🦤, Junit55️⃣, Mockito🍸, Gradle🐘})
+                .devOpsSkills({Ubuntu🐺, Github Actions♾️, Mysql🐬})
+                .collaborationTools({Slack📑, Notion, Jira, Github project, Git, Intellij})
                 .interests({"루틴", "명상", "운동👯"})
                 .build();
 
@@ -36,6 +40,7 @@ public class Main() {
 
 ## Hard Skill
  1. 더 깊이 있고 근거에 기반한 지식을 쌓기 위해 **기술 선택 시 여러 솔루션의 장단점과 사용자 UX의 Trade off를 고려**했습니다. 
+     - [유스케이스 기반 통합테스트 작성](https://www.notion.so/cbc35a5e03db4b8dbd7cb3c102f4be32)
      - [사용자의 UX를 고려한 JWT 로그인 보안 전략 수립 및 구현](https://ujkim-game.tistory.com/74)
      - [브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용](https://ujkim-game.tistory.com/67).
      - [Filter를 사용하여 반복되는 응답 로직 제거(feat.StandardResponse)](https://ujkim-game.tistory.com/72)
@@ -51,6 +56,10 @@ public class Main() {
 ## Soft SKill
  1. 서비스 개발은 많은 팀원을이 **협업**하여 이뤄내는 것이기 때문에 **Issue, PR, Wiki 등 문서화**에 관심이 많습니다.
  2. [티스토리 블로그](https://ujkim-game.tistory.com/) 에서는 사회의 성장에 기여하기 위해 **제가 재생산한 지식과 의견을 주기적으로 작성**했습니다. 
+
+
+## Cards
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michaelkimm&show_icons=true&theme=tokyonight)
 
 
 
