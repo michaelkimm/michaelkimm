@@ -30,7 +30,7 @@ public class Main() {
                 .backendSkills({Spring🌱, Spring Security🔐, MyBatis🦤, Junit55️⃣, Mockito🍸, Gradle🐘})
                 .devOpsSkills({Ubuntu🐺, Github Actions♾️, Mysql🐬})
                 .collaborationTools({Slack📑, Notion, Jira, Github project, Git, Intellij})
-                .interests({"루틴", "명상", "운동👯"})
+                .interests({"글", "루틴", "명상", "운동👯"})
                 .build();
 
         introduce(minsuk);
