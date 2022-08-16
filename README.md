@@ -2,6 +2,10 @@
 
  저는 웹의 생태계가 내포하는 **공유의 가치**를 지향합니다. 이에 저와 사회가 **함께 성장하는 환경을 조성하는데 기여**하고 있습니다. 
  
+ <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
+ <a href="https://www.notion.so/Kim-MinSuk-edbc0d9a9a41479cb18a41897189ce25"><img src="https://img.shields.io/badge/ Portfolio-blueviolet?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+
+ 
 ### **About me:)**
 
 ``` java
