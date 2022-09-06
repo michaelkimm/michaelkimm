@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 저는 웹의 생태계가 내포하는 **공유의 가치**를 지향합니다. 이에 저와 사회가 **함께 성장하는 환경을 조성하는데 기여**하고 있습니다. 
+ 저는 **Why**를 지속적으로 던져, **문제를 스스로 찾고 이를 해결하는 과정**을 즐깁니다. 피드백을 수용하여 더 나은 사고 과정을 하기를 바랍니다.
  
  <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
  
