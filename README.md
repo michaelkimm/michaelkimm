@@ -3,7 +3,8 @@
  저는 웹의 생태계가 내포하는 **공유의 가치**를 지향합니다. 이에 저와 사회가 **함께 성장하는 환경을 조성하는데 기여**하고 있습니다. 
  
  <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
- <a href="https://www.notion.so/Kim-MinSuk-edbc0d9a9a41479cb18a41897189ce25"><img src="https://img.shields.io/badge/ Portfolio-blueviolet?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+ 
+ You can check my CV [Here](https://drive.google.com/file/d/1O708DG20d2ZfGPhRfSoFEg1SvINLf8xd/view?usp=sharing):)
 
  
 ### **About me:)**
@@ -44,6 +45,7 @@ public class Main() {
 
 ## Hard Skill
  1. 더 깊이 있고 근거에 기반한 지식을 쌓기 위해 **기술 선택 시 여러 솔루션의 장단점과 사용자 UX의 Trade off를 고려**했습니다. 
+     - [유지 보수 및 안정성을 고려한 보안 프로퍼티 파일 주입 with AWS SecretsManager, Spring](https://ujkim-game.tistory.com/85)
      - [도커와 Testcontainer를 활용한 서버 환경 구축 자동화](https://www.notion.so/Testcontainer-1d02229a0d0940beb9bdeb915f4ef1f1)
      - [유스케이스 기반 통합테스트 작성](https://www.notion.so/cbc35a5e03db4b8dbd7cb3c102f4be32)
      - [사용자의 UX를 고려한 JWT 로그인 보안 전략 수립 및 구현](https://ujkim-game.tistory.com/74)
@@ -53,7 +55,7 @@ public class Main() {
      - [이상현상과 정규화 수준을 고려한 ERD 설계](https://ujkim-game.tistory.com/64)
 
 
- 2. 알고리즘 문제 **1일 1커밋 지향**
+ 2. 알고리즘 문제 해결 과정 복기 및 글 정리
      - 모든 알고리즘 문제의 해결법 **사고 과정 글로 정리**.
      - 문제를 나만의 언어로 추상화 하고 이를 요구사항(시간, 공간 복잡도)에 맞는 적절한 자료구조와 알고리즘을 선정하는 **사고 과정**이 중요하다고 생각합니다. 이에 **모든 사고 과정을 글로 정리**하고 있습니다. 정리된 글은 [Algorithm_diary repository](https://github.com/michaelkimm/Algorithm_diary)에서 확인할 수 있습니다. 더 많은 사람과 공유하기 위해 블로그로 옮길 예정입니다.
  
@@ -61,7 +63,10 @@ public class Main() {
 ## Soft SKill
  1. 서비스 개발은 많은 팀원을이 **협업**하여 이뤄내는 것이기 때문에 **Issue, PR, Wiki 등 문서화**에 관심이 많습니다.
  2. [티스토리 블로그](https://ujkim-game.tistory.com/) 에서는 사회의 성장에 기여하기 위해 **제가 재생산한 지식과 의견을 주기적으로 작성**했습니다. 
-
+    - [에자일이란 무엇일까? (1) 성장의 복리성을 제1원리 사고법과 연관지어 생각해보자](https://ujkim-game.tistory.com/76)
+    - [에자일이란 무엇인가? (2) 소프트웨어 엔지니어, 직관적 전문성이란?](https://ujkim-game.tistory.com/78)
+    - [에자일이란 무엇일까? (3) 인지적 사고 분석, Reverse engineering](https://ujkim-game.tistory.com/79)
+    - [진로는 어떻게 찾는가? 동기 부여는 어디서 받는가? feat. 제 경험:)](https://ujkim-game.tistory.com/77)
 
 ## Cards
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michaelkimm&show_icons=true&theme=tokyonight)
