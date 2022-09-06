@@ -33,7 +33,7 @@ public class Main() {
                 .developmentFields({"Back-end🔭"})
                 .languages({"java☕"})
                 .backendSkills({Spring🌱, Spring Security🔐, MyBatis🦤, Junit55️⃣, Mockito🍸, Gradle🐘})
-                .devOpsSkills({Ubuntu🐺, Github Actions♾️, Mysql🐬})
+                .devOpsSkills({Ubuntu🐺, Github Actions♾️, Mysql🐬, Docker🐋 AWS EC2☁️, S3, CodeDeploy, SecretsManager})
                 .collaborationTools({Slack📑, Notion, Jira, Github project, Git, Intellij})
                 .interests({"글", "루틴", "명상", "운동👯"})
                 .build();
