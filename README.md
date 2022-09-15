@@ -4,7 +4,7 @@
  
  <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
  
- You can check my CV [Here](https://drive.google.com/file/d/1O708DG20d2ZfGPhRfSoFEg1SvINLf8xd/view?usp=sharing):)
+ You can check my CV & Portfolio [Here](https://drive.google.com/file/d/1WtCZsAr-s9x6Evtomlif86PkBfMzLzOV/view?usp=sharing):)
 
  
 ### **About me:)**
