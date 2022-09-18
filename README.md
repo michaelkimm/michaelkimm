@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 저는 **Why**를 지속적으로 던져, **문제를 스스로 찾고 이를 해결하는 과정**을 즐깁니다. 피드백을 수용하여 더 나은 사고 과정을 하기를 바랍니다.
+ 저는 **Why**를 지속적으로 던져, **문제를 스스로 찾고 이를 해결하는 과정**을 즐깁니다. 피드백을 수용하여 더 나은 사고 과정을 하기 위해 글을 작성합니다.
  
  <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
  
