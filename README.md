@@ -42,10 +42,11 @@ public class Main() {
 
 ## Hard Skill
  1. 더 깊이 있고 근거에 기반한 지식을 쌓기 위해 **기술 선택 시 여러 솔루션의 장단점과 사용자 UX의 Trade off를 고려**했습니다. 
-     - [타행 이체 성능 개선기(1), Outbox 패턴 적용]
-     - [타행 이체 성능 개선기(2), 스케줄러 전략 선정 및 성능 테스트]
-     - [타행 이체 성능 개선기(3), 인프라 개선 및 성능 테스트]
-     - [타행 이체 성능 개선기(4), 스케줄러 전략 변경 및 병목 구간 해결]
+     - [#1 타행 이체 기능 성능 개선기, 프로젝트 소개](https://ujkim-game.tistory.com/90)
+     - [#2 타행 이체 기능 성능 개선기, 데이터 정합성](https://ujkim-game.tistory.com/91)
+     - [#3 타행 이체 기능 성능 개선기, 속도(아웃박스 스케줄러 전략 선정 및 구현)](https://ujkim-game.tistory.com/92)
+     - [#4 타행 이체 기능 성능 개선기, 속도(인프라 개선)](https://ujkim-game.tistory.com/93)
+     - [#5 타행 이체 기능 성능 개선기, 속도(이체 입금 요청 API 처리 전략)](https://ujkim-game.tistory.com/94)
      - [브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용](https://ujkim-game.tistory.com/67)
      - [사용자의 UX를 고려한 JWT 로그인 보안 전략 수립 및 구현](https://ujkim-game.tistory.com/74)
      - [도커와 Testcontainer를 활용한 서버와 동일한 환경에서의 로컬 테스트 구현](https://ujkim-game.tistory.com/81)
