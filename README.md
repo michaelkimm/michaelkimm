@@ -47,6 +47,7 @@ public class Main() {
      - [#3 타행 이체 기능 성능 개선기, 속도(아웃박스 스케줄러 전략 선정 및 구현)](https://ujkim-game.tistory.com/92)
      - [#4 타행 이체 기능 성능 개선기, 속도(인프라 개선)](https://ujkim-game.tistory.com/93)
      - [#5 타행 이체 기능 성능 개선기, 속도(이체 입금 요청 API 처리 전략)](https://ujkim-game.tistory.com/94)
+     - [#6 타행 이체 기능 성능 개선기, 속도(gap lock으로 인한 insert 병목 해결)](https://ujkim-game.tistory.com/96)
      - [브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용](https://ujkim-game.tistory.com/67)
      - [사용자의 UX를 고려한 JWT 로그인 보안 전략 수립 및 구현](https://ujkim-game.tistory.com/74)
      - [도커와 Testcontainer를 활용한 서버와 동일한 환경에서의 로컬 테스트 구현](https://ujkim-game.tistory.com/81)
