@@ -2,7 +2,7 @@
 
  저는 **Why**를 지속적으로 던져, **문제를 스스로 찾고 이를 해결하는 과정**을 즐깁니다. 문제 해결 결과 뿐 아니라 **현 문제 상황까지 지속적으로 팀과 공유**하여 더 나은 팀워크를 할 수 있도록 노력합니다.
  
- 이력서 링크(2023-04-26 업데이트) : https://drive.google.com/file/d/19aOcN4ETB69-OiVNo9JAlBcMOaVTeWNW/view?usp=share_link
+ 이력서 링크(2023-04-27 업데이트) : https://drive.google.com/file/d/16haRmECJFRPQUPdisnGmG9IAXxE8fjEI/view?usp=share_link
  
  <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
  
