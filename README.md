@@ -53,7 +53,7 @@ public class Main() {
      - [#4 타행 이체 기능 성능 개선기, 속도(인프라 개선)](https://ujkim-game.tistory.com/93)
      - [#5 타행 이체 기능 성능 개선기, 속도(이체 입금 요청 API 처리 전략)](https://ujkim-game.tistory.com/94)
      - [#6 타행 이체 기능 성능 개선기, 속도(gap lock으로 인한 insert 병목 해결)](https://ujkim-game.tistory.com/96)
-     - [#7 타행 이체 기능 성능 개선기, 비관락 획득 후 외부 API 호출 최소화 → 외부 서비스로 lock 전파 이슈 해결](https://excellent-snowshoe-c4c.notion.site/API-lock-73fd3720aff546f09401a0d4bb5b2eef)
+     - [#7 타행 이체 기능 성능 개선기, 비관락 획득 후 외부 API 호출 최소화](https://excellent-snowshoe-c4c.notion.site/API-lock-73fd3720aff546f09401a0d4bb5b2eef)
      - [브루트포스 공격 특성을 고려한 비밀번호 해싱 알고리즘 선정 및 적용](https://ujkim-game.tistory.com/67)
      - [사용자의 UX를 고려한 JWT 로그인 보안 전략 수립 및 구현](https://ujkim-game.tistory.com/74)
      - [도커와 Testcontainer를 활용한 서버와 동일한 환경에서의 로컬 테스트 구현](https://ujkim-game.tistory.com/81)
