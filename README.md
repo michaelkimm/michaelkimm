@@ -5,8 +5,6 @@
 
  [**Resume by notion**](https://excellent-snowshoe-c4c.notion.site/Kim-MinSuk-1238eab976484c3f86345913f638913f)
  
- [**Resume by pdf**, 도메인 내용有](https://drive.google.com/file/d/10XDo9kj-NuXDWKIURdNJVU6ZSio0Wcu5/view?usp=share_link)
- 
  <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
  
 ### **About me:)**
