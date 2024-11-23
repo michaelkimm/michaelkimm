@@ -1,9 +1,13 @@
 ## Hi there 👋
 
- 저는 **Why**를 지속적으로 던져, **문제를 스스로 찾고 이를 해결하는 과정**을 즐깁니다. 문제 해결 결과 뿐 아니라 **현 문제 상황까지 지속적으로 팀과 공유**하여 더 나은 팀워크를 할 수 있도록 노력합니다.
+ **마찰력 없는 인앱경험**을 발견하면 정말 좋아합니다.
+ 그런 제품을 만들기 위해, 일을 할 때 **본인만의 해석과 철학**을 팀원과 먼저 **공유**합니다.
+ 초기 제안 보다 **더 나은 해결 방법을 제안**합니다.
+ 제안이 실행 단계로 전환됐을 때 **지치지 않고 완수**하는 사람입니다.
+ 문제를 해결해나가는 **집요함**이 있습니다.
  
 
- [**Resume by notion**](https://excellent-snowshoe-c4c.notion.site/Kim-MinSuk-1238eab976484c3f86345913f638913f)
+ [**Resume by notion**](https://excellent-snowshoe-c4c.notion.site/Kim-MinSuk-Resume-1476acb801de8048a2d6d400dc3e5c72)
  
  <a href="https://ujkim-game.tistory.com/"><img src="https://img.shields.io/badge/ Tech blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
  
@@ -32,10 +36,10 @@ public class Main() {
                 .job("Software engineer🧑🏽‍💻")
                 .developmentFields({"Back-end🔭"})
                 .languages({"java☕"})
-                .backendSkills({Spring🌱, Spring Security🔐, JPA🔧, MyBatis🦤, Junit55️⃣, Mockito🍸, Gradle🐘})
+                .backendSkills({Spring🌱, Dropwizard,JPA🔧, MyBatis🦤, Junit55️⃣, Mockito🍸, Gradle🐘, Lambda🔸, OpenSearch🔹})
                 .devOpsSkills({Ubuntu🐺, Github Actions♾️, Mysql🐬, Docker🐋 AWS EC2☁️, S3, CodeDeploy, SecretsManager})
                 .collaborationTools({Slack📑, Notion, Jira, Github project, Git, Intellij})
-                .interests({"글", "루틴", "명상", "운동👯"})
+                .interests({"정리", "실험", "습관", "마찰력"})
                 .build();
 
         introduce(minsuk);
